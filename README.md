@@ -55,7 +55,7 @@ While these may not be amazing audio effects from a creativity or production-val
 | Xcode_Collect | Adding object to a collection (sound is similar to collecting an item or increasing your score in a video game) |
 | Xcode_Pop | Removing an item from a collection (e.g. 'popping' an object from a stack), freeing memory or releasing an object |
 | Xcode_Bzzt | Error or unexpected condition, useful for breakpoints in code that should not be hit |
-| Xcode_Swish | Removing objects, freeing memory, exiting methods/functions, early returns |
+| Xcode_Swish | Releasing objects, freeing memory, exiting methods/functions, early returns |
 | Xcode_Click | Marker or tick sound (especially short, useful for breakpoints which may occur in rapid succession) |
 | Xcode_Error | Error or unexpected conditional |
 | Xcode_Knock | File writes, counter increment or decrement, etc. |
