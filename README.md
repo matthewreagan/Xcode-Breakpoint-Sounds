@@ -41,7 +41,7 @@ The easiest way to use these sounds is to add them to Xcode's breakpoint editor 
 
 **Option 2: Using AFPlay**
 
-If you don't wish to modify your `~/Library/Sounds` folder, you can also easily play these sounds by using the _Shell Command_ breakpoint action, rather than the _Sound_ action./
+If you don't wish to modify your `~/Library/Sounds` folder, you can also easily play these sounds by using the _Shell Command_ breakpoint action, rather than the _Sound_ action.
 
 Simply create a breakpoint which calls the `afplay` command and provide the file path to the sound effect you want to play as the argument. With this approach, you can make use of any arbitrary audio file in any location.
 
