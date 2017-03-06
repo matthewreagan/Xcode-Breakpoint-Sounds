@@ -6,7 +6,7 @@
 
 For more info, see the [complete blog post](http://sound-of-silence.com/?article=20170306) on these sounds.
 
-## Why use sounds?
+## :speaker: Why use sounds?
 
 The biggest downside of typical breakpoints is that they freeze everything in its tracks and forcibly remove you from the context of the app you're debugging. Sometimes you'll want to gain a better understanding of how and when certain code is executing as you use the app in a fluid, natural manner.
 
@@ -31,7 +31,7 @@ This collection attempts to provide a well-rounded, multi-purpose set of debuggi
 
 ## How to use
 
-**Option 1: Adding to Xcode**
+:large_orange_diamond: **Option 1: Adding to Xcode**
 
 The easiest way to use these sounds is to add them to Xcode's breakpoint editor sound menu:
 
@@ -39,7 +39,7 @@ The easiest way to use these sounds is to add them to Xcode's breakpoint editor 
 2. Copy the audio files to `~/Library/Sounds`
 3. Quit and relaunch Xcode
 
-**Option 2: Using AFPlay**
+:large_orange_diamond: **Option 2: Using AFPlay**
 
 If you don't wish to modify your `~/Library/Sounds` folder, you can also easily play these sounds by using the _Shell Command_ breakpoint action, rather than the _Sound_ action.
 
