@@ -50,6 +50,8 @@ Simply create a breakpoint which calls the `afplay` command and provide the file
 
 While these may not be amazing audio effects from a creativity or production-value standpoint, I believe they are particularly good choices for debugging. The example context listed for each audio file is obviously just a suggestion - they can be used however you like. The idea is simply to choose an effect which has some subjective association which makes it easier to recognize each breakpoint, particularly when using multiple breakpoints together. 
 
+| Sound | Example Context |
+| --- | --- |
 | Xcode_Collect | Adding object to a collection (sound is similar to collecting an item or increasing your score in a video game) |
 | Xcode_Pop | Removing an item from a collection (e.g. 'popping' an object from a stack), freeing memory or releasing an object |
 | Xcode_Bzzt | Error or unexpected condition, useful for breakpoints in code that should not be hit |
